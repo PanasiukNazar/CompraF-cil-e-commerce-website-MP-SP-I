@@ -32,6 +32,10 @@ body {
     overflow-x: hidden;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 /* line 13, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/theme-default.scss */
 .img {
     max-width: 100%;
